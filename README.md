@@ -9,7 +9,7 @@ of Elisa Corporation (ELISA.HE) with a BUY rating and a 12-month price target
 of €51, based on an Abnormal Earnings valuation model.
 
 After submitting the report, I was curious whether the analysis was directionally 
-accurate — so I built this tracker to monitor it over time.
+accurate, so I built this tracker to monitor it over time.
 
 ## What it tracks
 - Elisa's weekly closing price vs the original intrinsic value estimate (€51.05)
@@ -34,4 +34,4 @@ python elisa_tracker.py
 
 ## Original report
 The equity report and financial model that this tracker is based on are available
-in a separate repository: [link]
+in a separate repository: [https://github.com/Jiaweisun274/elisa-equity-research]
