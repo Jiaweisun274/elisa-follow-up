@@ -1,0 +1,6 @@
+data/
+*.csv
+*.db
+
+data/
+!data/elisa_tracker.db

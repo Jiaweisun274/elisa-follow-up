@@ -1,0 +1,10 @@
+lseg-data
+pandas
+numpy
+jupyter
+ipykernel
+scipy
+pymc
+matplotlib
+seaborn
+openpyxl
