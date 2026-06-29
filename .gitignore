@@ -1,6 +1,3 @@
-data/
 *.csv
-*.db
-
-data/
+data/*
 !data/elisa_tracker.db
