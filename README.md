@@ -12,9 +12,8 @@ After submitting the report, I was curious whether the analysis was directionall
 accurate, so I built this tracker to monitor it over time.
 
 ## What it tracks
-- Elisa's weekly closing price vs the original intrinsic value estimate (€51.05)
+- Elisa's closing price vs the original intrinsic value estimate (€51.05)
 - The implied upside/downside gap over time
-- Notes on material events (earnings releases, large price moves)
 
 ## How it works
 A Python script pulls Elisa's latest closing price from LSEG Workspace via the 
