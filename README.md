@@ -1,6 +1,6 @@
 # Elisa Forecast Tracker
 
-![Elisa Price vs Intrinsic Value](output/tracker_chart.png)
+![Elisa Price vs Intrinsic Value](output/tracker_chart.png?raw=true)
 
 ## Background
 This is a follow-up to an equity research report I wrote for my Financial 
